@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bot-avatars": "^0.2.2",
+    "framer-motion": "^14.6.0",
+    "liquid-gooey": "^0.2.2",
+    "lucide-react": "^1.61.0",
+    "motion": "^14.6.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "thinking-orbs": "^0.3.2",
+    "voice-glow": "^0.3.0"
+  }
+}
